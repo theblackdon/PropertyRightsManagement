@@ -1,1 +1,1 @@
-# PropertyRightsManagement
+# Property Rights Management
